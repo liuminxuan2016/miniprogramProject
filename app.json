@@ -8,7 +8,8 @@
         "pages/search/search",
         "pages/index/picture/picture",
         "pages/index/about/about",
-        "pages/index/article/article"
+        "pages/index/article/article",
+        "pages/index/video/video"
     ],
     "window": {
         "backgroundTextStyle": "light",

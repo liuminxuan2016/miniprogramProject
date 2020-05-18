@@ -20,12 +20,18 @@ Page({
             },
             {
               id:2,
+              name:"视频",
+              isActive:false,
+              tabpages:"/pages/index/video/video"
+            },
+            {
+              id:3,
               name:"图片",
               isActive:false,
               tabpages:"/pages/index/picture/picture"
             },
             {
-              id:3,
+              id:4,
               name:"关于",
               isActive:false,
               tabpages:"/pages/index/about/about"

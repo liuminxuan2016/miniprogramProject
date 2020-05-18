@@ -1,0 +1,13 @@
+<view>
+    <video
+    src="http://yspvv.81.cn/video/2020/5/18/7728577DA45F4864A48C4B6B60A3F733.mp4" class="set"
+    controls
+  ></video>
+  <video
+  src="http://yspvv.81.cn/video/2020/5/18/A0D4FDE131FF4132A20800395502AA17.mp4" class="set" controls
+  ></video>
+  <video
+  src="http://yspvv.81.cn/video/2020/5/15/B57BB5D623E6459A9A48C823CDF3A53A.mp4" class="set" controls
+  ></video>
+  </view>
+  

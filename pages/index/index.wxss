@@ -28,3 +28,6 @@ swiper image{
 .tabs_content{
     
 }
+.set{
+    width: 100%;
+}
