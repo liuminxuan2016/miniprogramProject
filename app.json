@@ -1,0 +1,53 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/history/history",
+        "pages/weapon/weapon",
+        "pages/party/party",
+        "pages/knowledge/knowledge",
+        "pages/search/search"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#6E8B3D",
+        "navigationBarTextStyle": "white"
+    },
+    "tabBar": {
+        "color": "#000000",
+        "selectedColor": "#6E8B3D",
+        "list": [
+            {
+                "pagePath": "pages/index/index",
+                "text": "首页",
+                "iconPath": "images/icon/index.png",
+                "selectedIconPath": "images/icon/index-active.png"
+            },
+            {
+                "pagePath": "pages/weapon/weapon",
+                "text": "兵器",
+                "iconPath": "images/icon/weapon.png",
+                "selectedIconPath": "images/icon/weapon-active.png"
+            },
+            {
+                "pagePath": "pages/knowledge/knowledge",
+                "text": "国防知识",
+                "iconPath": "images/icon/knowledge.png",
+                "selectedIconPath": "images/icon/knowledge-active.png"
+            },
+            {
+                "pagePath": "pages/party/party",
+                "text": "党史",
+                "iconPath": "images/icon/party.png",
+                "selectedIconPath": "images/icon/party-active.png"
+            },
+            {
+                "pagePath": "pages/history/history",
+                "text": "军史",
+                "iconPath": "images/icon/history.png",
+                "selectedIconPath": "images/icon/history-active.png"
+            }
+        ]
+    },
+    "style": "v2",
+    "sitemapLocation": "sitemap.json"
+}
