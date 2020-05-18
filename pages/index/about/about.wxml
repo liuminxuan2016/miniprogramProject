@@ -1,0 +1,4 @@
+<!--pages/index/about/about.wxml-->
+<view>
+    <text>我是测试内容</text>
+</view>

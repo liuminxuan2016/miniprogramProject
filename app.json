@@ -5,7 +5,10 @@
         "pages/weapon/weapon",
         "pages/party/party",
         "pages/knowledge/knowledge",
-        "pages/search/search"
+        "pages/search/search",
+        "pages/index/picture/picture",
+        "pages/index/about/about",
+        "pages/index/article/article"
     ],
     "window": {
         "backgroundTextStyle": "light",
