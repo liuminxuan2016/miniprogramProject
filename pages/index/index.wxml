@@ -4,3 +4,12 @@
 <!--搜索框结束-->
 </view>
 <!-- <Tabs></Tabs> -->
+<view>
+    <swiper indicator-dots='true' indicator-color='white' autoplay='true' circular='true'>
+        <swiper-item><image src="https://picgoimg-1252115786.cos.ap-nanjing.myqcloud.com/img/01 .jpg"></image></swiper-item>
+        <swiper-item><image src="https://picgoimg-1252115786.cos.ap-nanjing.myqcloud.com/img/02.jpg"></image></swiper-item>
+        <swiper-item><image src="https://picgoimg-1252115786.cos.ap-nanjing.myqcloud.com/img/03.jpg"></image></swiper-item>
+        <swiper-item><image src="https://picgoimg-1252115786.cos.ap-nanjing.myqcloud.com/img/04.jpg"></image></swiper-item>
+        <swiper-item><image src="https://picgoimg-1252115786.cos.ap-nanjing.myqcloud.com/img/05.jpg"></image></swiper-item>
+    </swiper>   
+</view>
