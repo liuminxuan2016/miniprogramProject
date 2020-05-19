@@ -1,4 +1,4 @@
-<view>
+<!-- <view>
     <video
     src="http://yspvv.81.cn/video/2020/5/18/7728577DA45F4864A48C4B6B60A3F733.mp4" class="set"
     controls
@@ -9,5 +9,14 @@
   <video
   src="http://yspvv.81.cn/video/2020/5/15/B57BB5D623E6459A9A48C823CDF3A53A.mp4" class="set" controls
   ></video>
+  </view>-->
+  <view>
+    <text class="textset">2016征兵宣传片《战斗宣言》</text>
+    <video class="set" controls src="http://vv.chinamil.com.cn/asset/category3/2017/09/02/asset_293905.mp4"></video>
+    <text class="textset">2017征兵宣传片《中国力量》</text>
+     <video class="set" controls src="http://vv.chinamil.com.cn/asset/category3/2017/05/04/asset_277383.mp4"></video>
+     <text class="textset">2018征兵宣传片《青春不一样》</text>
+      <video class="set" controls src="http://yspvv.81.cn/video/2018/12/29/4BFCA011F71E44A0A2E51464CDB5BF74.mp4"></video>
+      <text class="textset">2020湖北征兵宣传片</text>
+      <video class="set" controls src="http://yspvv.81.cn/video/2020/5/2/7CEF35A75EDC4A6DB8FD5E23FB2F1FE8.mp4"></video>
   </view>
-  

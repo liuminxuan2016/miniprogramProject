@@ -10,5 +10,10 @@ page{
     /* 定义主题颜色 */
     --themeColor:#6E8B3D;
     /* 定义统一的字体大小 */
-    font-size:28rpx;
+    /* font-size:28rpx; */
 }
+text{
+    font-size: 16px;
+    color: #333;
+    font-family: -apple-system-font, 'Helvetica Neue', Helvetica, 'Microsoft YaHei', sans-serif;
+  }

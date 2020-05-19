@@ -17,7 +17,7 @@
       </view>
     </view>
   </view>
-<!-- <view>
+<view>
     <swiper indicator-dots='true' indicator-color='white' autoplay='true' circular='true'>
         <swiper-item><image src="https://picgoimg-1252115786.cos.ap-nanjing.myqcloud.com/img/01 .jpg"></image></swiper-item>
         <swiper-item><image src="https://picgoimg-1252115786.cos.ap-nanjing.myqcloud.com/img/02.jpg"></image></swiper-item>
@@ -25,10 +25,8 @@
         <swiper-item><image src="https://picgoimg-1252115786.cos.ap-nanjing.myqcloud.com/img/04.jpg"></image></swiper-item>
         <swiper-item><image src="https://picgoimg-1252115786.cos.ap-nanjing.myqcloud.com/img/05.jpg"></image></swiper-item>
     </swiper>   
-</view> -->
-<view>
   <video
   src="http://yspvv.81.cn/video/2020/5/18/7728577DA45F4864A48C4B6B60A3F733.mp4" class="set"
   controls
-></video>
+  ></video>
 </view>
