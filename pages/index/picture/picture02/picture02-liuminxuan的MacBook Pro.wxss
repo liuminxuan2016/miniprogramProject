@@ -1,0 +1,13 @@
+image{
+    box-sizing: border-box;
+    border-radius: 10rpx;
+    border: 1px solid #6E8B3D;  
+    width: 750rpx;
+    height: 100%;
+ }
+ .textstyle{
+     font-size: 35rpx;
+     display: flex;
+     justify-content: center;
+     align-content: center;
+ }

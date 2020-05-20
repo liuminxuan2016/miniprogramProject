@@ -9,7 +9,12 @@
         "pages/index/picture/picture",
         "pages/index/about/about",
         "pages/index/article/article",
-        "pages/index/video/video"
+        "pages/index/video/video",
+        "pages/index/picture/picture01/picture01",
+        "pages/index/picture/picture02/picture02",
+        "pages/index/picture/picture03/picture03",
+        "pages/index/picture/picture04/picture04",
+        "pages/index/picture/picture05/picture05"
     ],
     "window": {
         "backgroundTextStyle": "light",

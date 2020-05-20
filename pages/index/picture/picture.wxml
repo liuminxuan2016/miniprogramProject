@@ -1,0 +1,56 @@
+
+  <view class='items' bindtap='jumpPicture1'>
+    <view class='items-l'>
+      <text>海拔5200米,
+        托克满苏边防连新兵首次界碑巡逻</text>
+      <view>
+        <text>八一图片</text>
+      </view>
+    </view>
+  <image class='items-r' src='http://photo.81.cn/pla/attachement/jpg/site3/20200508/309c237048b0201f07b80d.jpg'></image>
+</view>
+
+<view class='items' bindtap='jumpPicture2'>
+    <view class='items-l'>
+      <text>汽修兵刘鸣海：
+        匠心独具，为军车喷绘靓丽迷彩</text>
+      <view>
+        <text>军人风采</text>
+      </view>
+    </view>
+  <image class='items-r' src='http://photo.81.cn/jrfc/attachement/jpg/site351/20200310/309c236f8da41fd1733f30.jpg'></image>
+</view>
+
+<view class='items' bindtap='jumpPicture3'>
+  <view class='items-l'>
+    <text>向凯旋而归的人民子弟兵，
+      敬礼！</text>
+    <view>
+      <text>漫画欣赏</text>
+    </view>
+  </view>
+<image class='items-r' src='https://picgoimg-1252115786.cos.ap-nanjing.myqcloud.com/img/20200519201914.png'></image>
+</view>
+
+<view class='items' bindtap='jumpPicture4'>
+  <view class='items-l'>
+    <text>细节控看过来！
+      带你走进武警小哥哥的
+      “几何世界”</text>
+    <view>
+      <text>军人风采</text>
+    </view>
+  </view>
+<image class='items-r'  src='http://photo.81.cn/jrfc/attachement/jpg/site3/20200428/309c237048c120121dc156.jpg'></image>
+</view>
+
+<view class='items' bindtap='jumpPicture5'>
+  <view class='items-l'>
+    <text>燃爆的“逆行者”，生或死，
+      他只有一次出手机会！</text>
+    <view>
+      <text>军营拍客</text>
+    </view>
+  </view>
+<image class='items-r'  src='http://photo.81.cn/jypk/attachement/jpg/site3/20200423/309c237048dc200b349a07.JPG'></image>
+</view>
