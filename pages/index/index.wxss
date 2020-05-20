@@ -30,4 +30,5 @@ swiper image{
 }
 .set{
     width: 100%;
+    border-radius: 20rpx;
 }
