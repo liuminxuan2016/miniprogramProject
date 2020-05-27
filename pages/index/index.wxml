@@ -25,12 +25,12 @@
         <swiper-item><image src="https://picgoimg-1252115786.cos.ap-nanjing.myqcloud.com/img/04.jpg"></image></swiper-item>
         <swiper-item><image src="https://picgoimg-1252115786.cos.ap-nanjing.myqcloud.com/img/05.jpg"></image></swiper-item>
     </swiper>   
-  <video
+  <!-- <video
   src="http://yspvv.81.cn/video/2020/5/18/691C8060732541FB9F8148451E2D2719.mp4" class="set"
   controls
   ></video>
   <video
   src="http://yspvv.81.cn/video/2020/5/15/D3D46477A7EB4DD8A677D60DD0CC510A.mp4" class="set"
   controls
-  ></video>
+  ></video> -->
 </view>
